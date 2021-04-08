@@ -19,6 +19,7 @@ knitr::opts_chunk$set(
 The goal of Reproducibility is to ...
 Here we might add an introduction.
 Or some more text - again I know.
+Because this is fun.
 
 
 
