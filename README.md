@@ -9,6 +9,10 @@
 The goal of Reproducibility is to … Here we might add an introduction.
 This won’t be included in the master file, as I just added it here!
 
+Now I created a new branch to fix issue 4. However, I didn’t pull before
+to include the changes of fix3 in my local file. Let’s see how to solve
+it.
+
 What is special about using `README.Rmd` instead of just `README.md`?
 You can include R chunks like so:
 
