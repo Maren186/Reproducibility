@@ -7,7 +7,7 @@
 <!-- badges: end -->
 
 The goal of Reproducibility is to … Here we might add an introduction.
-Or some more lines. As I always do.
+This won’t be included in the master file, as I just added it here!
 
 What is special about using `README.Rmd` instead of just `README.md`?
 You can include R chunks like so:
