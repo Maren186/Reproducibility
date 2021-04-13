@@ -7,10 +7,8 @@
 <!-- badges: end -->
 
 The goal of Reproducibility is to … Here we might add an introduction.
-This won’t be included in the master file, as I just added it here!
 
-What is special about using `README.Rmd` instead of just `README.md`?
-You can include R chunks like so:
+Let’s assume I added a code chunk in fix3.
 
 ``` r
 summary(cars)
@@ -22,16 +20,3 @@ summary(cars)
 #>  3rd Qu.:19.0   3rd Qu.: 56.00  
 #>  Max.   :25.0   Max.   :120.00
 ```
-
-You’ll still need to render `README.Rmd` regularly, to keep `README.md`
-up-to-date. `devtools::build_readme()` is handy for this. You could also
-use GitHub Actions to re-render `README.Rmd` every time you push. An
-example workflow can be found here:
-<https://github.com/r-lib/actions/tree/master/examples>.
-
-You can also embed plots, for example:
-
-![](README_files/figure-gfm/pressure-1.png)<!-- -->
-
-In that case, don’t forget to commit and push the resulting figure
-files, so they display on GitHub.
