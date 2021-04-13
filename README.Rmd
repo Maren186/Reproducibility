@@ -24,14 +24,15 @@ Now I created a new branch to fix issue 4. However, I didn't pull before to incl
 ```{r}
 # more code
 plot(cars)
-=======
-
-
-What is special about using `README.Rmd` instead of just `README.md`? You can include R chunks like so:
-
-```{r cars}
-summary(cars)
 
 ```
 
+
+Let's assume I added a code chunk in fix3.
+
+```{r}
+summary(cars)
+
+
+```
 

@@ -8,9 +8,14 @@
 
 The goal of Reproducibility is to … Here we might add an introduction.
 
+
+Let’s assume I added a code chunk in fix3.
+
+
+
 ``` r
 # more code
 plot(cars)
 ```
 
-![](README_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
+
