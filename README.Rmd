@@ -20,11 +20,19 @@ The goal of Reproducibility is to ...
 Here we might add an introduction.
 
 
-Let's assume I added a code chunk in fix3.
+Now I created a new branch to fix issue 4. However, I didn't pull before to include the changes of fix3 in my local file. Let's see how to solve it. 
 ```{r}
-summary(cars)
+# more code
+plot(cars)
+
 ```
 
 
+Let's assume I added a code chunk in fix3.
 
+```{r}
+summary(cars)
+
+
+```
 
